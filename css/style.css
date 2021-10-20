@@ -31,11 +31,15 @@ a:hover{
 }
 .btn-outline-warning:hover{
     background: #b85353;
-    border:  #C5AF82;
+    border:  #7a7469;
 }
 .btn-sm{
     font-size: 18px;
 }
 .dropdown-menu{
     background-color: rgb(59, 23, 23);
+}
+.btn-outline-primary:hover{
+background: #C5AF82;
+color: #000;
 }
